@@ -1,0 +1,17 @@
+button {
+    margin: 1em;
+    display: block
+}
+.paragraph {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    color: white;
+}
+.box {
+    background-color: black;
+    height: 4em;
+    width: 4em;
+    margin: 1em;
+    float: left;
+}
